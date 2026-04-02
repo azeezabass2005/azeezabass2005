@@ -2,6 +2,8 @@
 
 I like building things in Rust and TypeScript. Mostly stuff that solves problems I actually have.
 
+I also love to write about interesting things I've worked on or learnt at https://www.thefola.dev
+
 ### What I'm working on
 
 **[bifrost](https://github.com/azeezabass2005/bifrost)**: A multithreaded product search service in Rust. Send it a product name and it scrapes multiple e-commerce sites in parallel, compares prices, ratings, and delivery info.

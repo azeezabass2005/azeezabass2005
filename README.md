@@ -6,7 +6,7 @@ I also love to write about interesting things I've worked on or learnt at https:
 
 ### What I'm working on
 
-**[bifrost](https://github.com/azeezabass2005/bifrost)**: A multithreaded product search service in Rust. Send it a product name and it scrapes multiple e-commerce sites in parallel, compares prices, ratings, and delivery info.
+**[mdf](https://github.com/azeezabass2005/mdf)**: A Rust + Svelte app that transforms PDFs (most PDFs are unpleasant to read) into easily customizable, styled, accessible web pages with scroll and slide reading modes.
 
 ### Things I've built
 

@@ -6,13 +6,13 @@ I also love to write about interesting things I've worked on or learnt at https:
 
 ### What I'm working on
 
-**[mdf](https://github.com/azeezabass2005/mdf)**: A Rust + Svelte app that transforms PDFs (most PDFs are unpleasant to read) into easily customizable, styled, accessible web pages with scroll and slide reading modes.
+**[MDF](https://github.com/azeezabass2005/mdf)**: A Rust + Svelte app that transforms PDFs (most PDFs are unpleasant to read) into easily customizable, styled, accessible web pages with scroll and slide reading modes.
 
 ### Things I've built
 
-**[quickicon](https://github.com/azeezabass2005/quickicon)**: Converts SVGs into React components from your clipboard, files, or URLs. Built in Rust, works on npm too.
+**[Quickicon](https://github.com/azeezabass2005/quickicon)**: Converts SVGs into React components from your clipboard, files, or URLs. Built in Rust, works on npm too.
 
-**[vektur](https://github.com/azeezabass2005/vektur)**: A SQL query engine written from scratch in Rust. Parses SQL, builds a query plan, runs it against CSV files.
+**[Vektur](https://github.com/azeezabass2005/vektur)**: A SQL query engine written from scratch in Rust. Parses SQL, builds a query plan, runs it against CSV files.
 
 I also build backends in TypeScript when that's the right tool for the job.
 

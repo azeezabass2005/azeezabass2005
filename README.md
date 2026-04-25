@@ -8,7 +8,7 @@ I also love to write about interesting things I've worked on or learnt at https:
 
 **[MDF](https://github.com/azeezabass2005/mdf)**: A Rust + Svelte app that transforms PDFs (most PDFs are unpleasant to read) into easily customizable, styled, accessible web pages with scroll and slide reading modes.
 
-### Things I've built
+### Some of the things I've built
 
 **[Quickicon](https://github.com/azeezabass2005/quickicon)**: Converts SVGs into React components from your clipboard, files, or URLs. Built in Rust, works on npm too.
 

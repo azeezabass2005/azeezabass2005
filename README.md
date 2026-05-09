@@ -1,6 +1,6 @@
 ## Hey, I'm Fola
 
-I like building things in Rust and TypeScript. Mostly stuff that solves problems I actually have.
+I love building softwares in Rust and TypeScript. Mostly stuff that solves problems I actually have.
 
 I also love to write about interesting things I've worked on or learnt at https://www.thefola.dev
 
